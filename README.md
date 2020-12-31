@@ -22,7 +22,7 @@ pod 'JZRollableLabel'
 
 ## Author
 
-jiahao_zhu98@outlook.com, jiahao.zhu@maibaapp.cn
+朱嘉皓, jiahao_zhu98@outlook.com
 
 ## License
 
